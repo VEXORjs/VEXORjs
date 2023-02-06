@@ -1,5 +1,4 @@
 
-# Howdy
 
 ## This is my current stack:
 
