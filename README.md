@@ -12,7 +12,7 @@
 
 <img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxt/nuxtjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <br />
